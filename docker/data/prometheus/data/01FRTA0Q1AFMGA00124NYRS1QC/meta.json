@@ -1,0 +1,17 @@
+{
+	"ulid": "01FRTA0Q1AFMGA00124NYRS1QC",
+	"minTime": 1641549631055,
+	"maxTime": 1641556800000,
+	"stats": {
+		"numSamples": 988363,
+		"numSeries": 735,
+		"numChunks": 8085
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01FRTA0Q1AFMGA00124NYRS1QC"
+		]
+	},
+	"version": 1
+}
